@@ -1,0 +1,10 @@
+# This file describes a Fastly Compute package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["ab.tiwary@gmail.com"]
+cloned_from = "https://github.com/fastly/compute-starter-kit-rust-default"
+description = "A compute node to do some NASA APOD stuff - created to learn Fastly Compute"
+language = "rust"
+manifest_version = 3
+name = "apod-ab"
+service_id = "LK5EkeQoAwixc9ayPT4R52"
